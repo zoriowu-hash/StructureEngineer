@@ -9,3 +9,4 @@ Notes live under `notes/`, one folder per topic.
 ### Roof
 
 - [Rafter Roof](notes/roof/rafter-roof.md): rafter roof components, terms, and design references
+- [Purlin Roof](notes/roof/purlin-roof.md): purlin roof components and design references
