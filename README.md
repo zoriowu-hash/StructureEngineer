@@ -17,6 +17,10 @@ Notes live under `notes/`, one folder per topic.
 
 - [Insulation](notes/insulation/insulation.md): insulation for walls and roofs: materials and moisture terms, and the wind barrier membrane
 
+### Retrofitting
+
+- [Retrofitting](notes/retrofitting/retrofitting.md): upgrading existing buildings: retrofit, re-roofing, temporary protection and board materials (Norwegian / English / Chinese)
+
 ### Norwegian Book
 
 - [Norwegian Book Notes](notes/norwegian-book/README.md): chapter/section notes from the Norwegian book *Etterisolering av småhus* (retrofit insulation of small houses): page pictures, Norwegian text, English translation, and Q&A
