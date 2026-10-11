@@ -11,6 +11,6 @@ Notes live under `notes/`, one folder per topic.
 - [Rafter Roof](notes/roof/rafter-roof.md): rafter roof components, terms, and design references
 - [Purlin Roof](notes/roof/purlin-roof.md): purlin roof components and design references
 
-### Building Envelope
+### Insulation
 
-- [Wind Barrier](notes/building-envelope/wind-barrier.md): breathable membrane that stops cold air from entering wall and roof insulation
+- [Insulation](notes/insulation/insulation.md): insulation for walls and roofs, including the wind barrier membrane
