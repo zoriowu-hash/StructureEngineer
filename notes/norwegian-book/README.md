@@ -13,4 +13,4 @@ Each note contains:
 
 ## Chapters / sections
 
-_No notes yet._
+- [2.4.1 Sperretak fra 1960- og 1970-tallet: Opprinnelig konstruksjon](2.4.1-sperretak-1960-1970.md): rafter roofs from the 1960s–70s, original construction
