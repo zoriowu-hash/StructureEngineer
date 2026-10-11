@@ -16,3 +16,7 @@ Notes live under `notes/`, one folder per topic.
 ### Insulation
 
 - [Insulation](notes/insulation/insulation.md): insulation for walls and roofs, including the wind barrier membrane
+
+### Norwegian Book
+
+- [Norwegian Book Notes](notes/norwegian-book/README.md): chapter/section notes from a Norwegian building book: page pictures, Norwegian text, English translation, and Q&A
