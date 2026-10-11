@@ -1,6 +1,6 @@
 # Roof Basics
 
-General knowledge about roofs: roof types, parts of a roof, and attic terms.
+General knowledge about roofs: roof types, parts of a roof, structural members, and attic terms.
 
 ## Terms
 
@@ -21,6 +21,14 @@ General knowledge about roofs: roof types, parts of a roof, and attic terms.
 | **Ventilert / luftet** — Utformet slik at luft kan strømme gjennom. | **Ventilated** — Arranged to allow air to move through a space. | **通风的** — 允许空气通过、流动的。 |
 | **Himling / skrå himling** — Innvendig takflate / en innvendig takflate som heller. | **Ceiling / sloping ceiling** — The interior overhead surface / one that slopes. | **天花板／斜天花板** — 室内顶部表面／倾斜的室内顶部表面。 |
 | **Halvannenetasjes bolig** — Bolig med en øvre etasje delvis innenfor skråtaket. | **One-and-a-half-storey house** — A house whose upper floor is partly within the roof. | **一层半住宅** — 上层部分空间位于坡屋顶内部的住宅。 |
+| **Taksperre / sperre** — Skrå bjelke som bærer taket i takets fallretning. | **Rafter** — A sloping structural member running down the roof slope. | **椽子／屋顶斜梁** — 顺着屋顶坡度设置的承重构件。 |
+| **Takås / ås** — Bjelke langs taket, vanligvis parallelt med mønet. | **Purlin** — A roof-supporting beam generally parallel to the ridge. | **檩条** — 通常与屋脊平行、支撑屋面的梁。 |
+| **Bjelke** — Bærende konstruksjonsdel som overfører last til støttene. | **Beam** — A structural member carrying loads to its supports. | **梁** — 将荷载传递到支撑处的承重构件。 |
+| **Takstol** — Sammensatt rammeverk som bærer taket, ofte med trekanter. | **Roof truss** — A structural framework, often triangulated, supporting the roof. | **屋架** — 由多个构件连接组成、通常包含三角形的屋顶承重框架。 |
+| **Fagverk** — Konstruksjon av sammenkoblede staver, vanligvis i trekantmønster. | **Truss** — A framework of connected members, usually forming triangles. | **桁架** — 由杆件组成、通常采用三角形组合的承重结构。 |
+| **Loftsromstakstol / A-takstol** — Takstol med plass til et rom inne i konstruksjonen. | **Attic truss / room-in-roof truss** — A truss designed to leave usable room space inside. | **阁楼屋架／A型屋架** — 内部留有可使用阁楼空间的屋架。 |
+| **Bærende konstruksjon** — Bygningsdeler som bærer og overfører last. | **Load-bearing structure** — Parts of a building that support and transfer loads. | **承重结构** — 承受并传递建筑荷载的构件系统。 |
+| **Sperrehøyde** — Sperrens tverrsnittshøyde, som påvirker tilgjengelig isolasjonsdybde. | **Rafter depth** — The rafter’s cross-sectional depth, affecting space available for insulation. | **椽子截面高度／斜梁厚度** — 影响椽间可放置保温材料厚度的尺寸。 |
 
 ## Related notes
 
