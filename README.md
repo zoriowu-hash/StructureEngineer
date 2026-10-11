@@ -19,4 +19,4 @@ Notes live under `notes/`, one folder per topic.
 
 ### Norwegian Book
 
-- [Norwegian Book Notes](notes/norwegian-book/README.md): chapter/section notes from a Norwegian building book: page pictures, Norwegian text, English translation, and Q&A
+- [Norwegian Book Notes](notes/norwegian-book/README.md): chapter/section notes from the Norwegian book *Etterisolering av småhus* (retrofit insulation of small houses): page pictures, Norwegian text, English translation, and Q&A

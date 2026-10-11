@@ -1,6 +1,6 @@
-# Norwegian Book Notes
+# Norwegian Book Notes: *Etterisolering av småhus*
 
-Notes on what I learn from a Norwegian book on building, one note per chapter/section.
+Notes on what I learn from the Norwegian book *Etterisolering av småhus* (Retrofit insulation of small houses), one note per chapter/section.
 
 ## Note format
 
