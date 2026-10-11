@@ -8,6 +8,7 @@ Notes live under `notes/`, one folder per topic.
 
 ### Roof
 
+- [Roof Basics](notes/roof/roof-basics.md): general roof knowledge, roof types, parts and attic terms (Norwegian / English / Chinese)
 - [Rafter Roof](notes/roof/rafter-roof.md): rafter roof components, terms, and design references
 - [Purlin Roof](notes/roof/purlin-roof.md): purlin roof components and design references
 - [Roof Battens](notes/roof/roof-battens.md): roof layers from rafter to tiles, counter-battens and tile battens
