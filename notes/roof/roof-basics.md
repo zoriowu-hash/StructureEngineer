@@ -1,6 +1,6 @@
 # Roof Basics
 
-General knowledge about roofs: roof types, parts of a roof, structural members, and attic terms.
+General knowledge about roofs: roof types, parts of a roof, structural members, roof layers and membranes, and attic terms.
 
 ## Terms
 
@@ -29,6 +29,21 @@ General knowledge about roofs: roof types, parts of a roof, structural members, 
 | **Loftsromstakstol / A-takstol** — Takstol med plass til et rom inne i konstruksjonen. | **Attic truss / room-in-roof truss** — A truss designed to leave usable room space inside. | **阁楼屋架／A型屋架** — 内部留有可使用阁楼空间的屋架。 |
 | **Bærende konstruksjon** — Bygningsdeler som bærer og overfører last. | **Load-bearing structure** — Parts of a building that support and transfer loads. | **承重结构** — 承受并传递建筑荷载的构件系统。 |
 | **Sperrehøyde** — Sperrens tverrsnittshøyde, som påvirker tilgjengelig isolasjonsdybde. | **Rafter depth** — The rafter’s cross-sectional depth, affecting space available for insulation. | **椽子截面高度／斜梁厚度** — 影响椽间可放置保温材料厚度的尺寸。 |
+| **Taktekking** — Det ytterste laget som beskytter taket mot været. | **Roof covering / roofing** — The outer weather-protective covering, such as metal or tiles. | **屋面覆盖层** — 最外侧抵御风雨的材料，如金属板或瓦。 |
+| **Lekt; lekter** — Smale trestykker som taktekkingen festes til, vanligvis på tvers av takfallet. | **Batten; battens** — Narrow strips, usually across the slope, supporting the roof covering. | **挂瓦条／横向屋面条** — 通常横跨坡面，用于固定和支撑屋面材料的细木条。 |
+| **Sløyfe; sløyfer** — Lekter langs takfallet som skaper avstand for lufting og drenering. | **Counter-batten; counter-battens** — Strips running down the slope, creating ventilation and drainage space. | **顺水条／纵向垫条** — 顺着坡面设置，为通风和排水留出空间的木条。 |
+| **Luftespalte / luftesjikt** — Åpent mellomrom som gir plass til luftstrøm. | **Ventilation gap / ventilated cavity** — An open passage for airflow. | **通风空隙／通风层** — 供空气流动的空腔。 |
+| **Undertak** — Sekundært beskyttende sjikt under taktekkingen som leder bort inntrengt vann. | **Secondary roof / roof underlay system** — A protective layer or assembly beneath the outer covering that drains water getting through it. | **副屋面／屋面防水基层系统** — 外层屋面下方的第二道保护，可由板材和防水垫层组成，也可采用合适的膜系统。 |
+| **Undertaksbelegg / underlagsbelegg** — Beskyttende belegg under taktekkingen, ofte lagt på taktro. | **Roofing underlay / underlay membrane** — A protective sheet beneath the roof covering, often supported by sheathing. | **屋面防水垫层／防水膜** — 位于外层屋面下方、承接并排走渗入水的薄层材料。 |
+| **Taktro** — Sammenhengende bord eller plater som danner et underlag i taket. | **Roof sheathing / roof decking** — Continuous boards or panels forming the roof deck. | **屋面板／屋面基层板** — 铺在屋顶骨架上的连续木板或板材。 |
+| **Taktro med undertaksbelegg** — Takbord eller plater med et beskyttende belegg oppå. | **Roof sheathing with underlay** — A solid roof deck with a protective membrane on top. | **屋面板加防水垫层** — 实体板材上方铺设防水垫层的组合。 |
+| **Membran** — Et tynt sjikt med en bestemt beskyttende eller tettende funksjon. | **Membrane** — A thin layer with a particular protective or sealing function. | **膜／薄膜层** — 起防水、防风或隔汽等特定作用的薄层；不同膜功能不同。 |
+| **Vindsperre** — Lufttettende sjikt på utsiden av isolasjonen, vanligvis diffusjonsåpent. | **Wind barrier** — A layer outside the insulation that limits wind penetration, usually allowing vapour to escape. | **防风层** — 位于保温层外侧，防止风穿透保温材料，通常允许水蒸气向外扩散。 |
+| **Kombinert undertak og vindsperre** — Ett egnet sjikt som fungerer både som undertak og vindsperre. | **Combined underlay and wind barrier** — One suitable layer performing both functions. | **防水、防风合一层** — 同时承担副屋面防水与保温层防风作用的材料层。 |
+| **Dampsperre** — Sjikt med høy vanndampmotstand, vanligvis på varm side av isolasjonen. | **Vapour barrier** — A high vapour-resistance layer, usually on the warm side of insulation. | **隔汽层** — 通常位于保温层暖侧，具有较高水蒸气阻力的材料层。 |
+| **Dampbrems / dampkontrollsjikt** — Sjikt som begrenser vanndamptransport; motstanden kan variere. | **Vapour retarder / vapour-control layer** — A layer controlling vapour movement; its resistance depends on the product. | **限汽层／水蒸气控制层** — 限制水蒸气通过的材料层，阻力因产品而异。 |
+| **Forkantbord** — Bord ved takfoten, ofte bak takrennen. | **Fascia board** — The board at the roof edge, often behind the gutter. | **檐口封板** — 位于屋檐边缘、通常在排水天沟后方的板。 |
+| **Takrenne** — Renne som samler og leder bort regnvann fra taket. | **Gutter** — A channel collecting and carrying away roof rainwater. | **檐沟／雨水槽** — 收集并排走屋面雨水的槽。 |
 
 ## Related notes
 
