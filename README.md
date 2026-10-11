@@ -15,7 +15,7 @@ Notes live under `notes/`, one folder per topic.
 
 ### Insulation
 
-- [Insulation](notes/insulation/insulation.md): insulation for walls and roofs, including the wind barrier membrane
+- [Insulation](notes/insulation/insulation.md): insulation for walls and roofs: materials and moisture terms, and the wind barrier membrane
 
 ### Norwegian Book
 
