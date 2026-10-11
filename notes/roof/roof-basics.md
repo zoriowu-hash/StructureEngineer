@@ -2,6 +2,22 @@
 
 General knowledge about roofs: roof types, parts of a roof, structural members, roof layers and membranes, and attic terms.
 
+## Example: metal roof with a separate wind barrier
+
+One possible insulated roof construction, from outside to the heated room:
+
+![Metal roof with a separate wind barrier](images/metal-roof-wind-barrier-layers.png)
+
+1. **Metal roofing** (metalltak): profiled metal roof covering.
+2. **Battens + counter-battens** (lekter + sløyfer): two sets of battens above the underlay, leaving drainage/ventilation space.
+3. **Roof underlay membrane** (undertaksbelegg): waterproof underlay.
+4. **Roof sheathing** (taktro): solid wood sheathing, e.g. plywood/OSB. Layers 3 + 4 together form the **undertak** (secondary roof).
+5. **Ventilated gap below the undertak** (luftet hulrom under undertak): continuous ventilated cavity running up the slope, between the sheathing and the wind barrier.
+6. **Wind barrier** (vindsperre): directly against the top of the insulation, on the warm side of the ventilated gap.
+7. **Insulation between rafters** (isolasjon mellom sperrer): mineral wool between the timber rafters.
+8. **Airtight vapour-control layer** (dampsperre): airtight membrane on the warm side.
+9. **Interior ceiling** (innvendig himling): plasterboard or similar ceiling finish.
+
 ## Terms
 
 | Norwegian — forklaring | English — explanation | 中文 — 解释 |
