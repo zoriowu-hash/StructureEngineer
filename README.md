@@ -27,4 +27,4 @@ Notes live under `notes/`, one folder per topic.
 
 ### Videos
 
-- [Useful YouTube Videos](notes/videos/youtube-videos.md): video links grouped by topic (roof, insulation, retrofitting)
+- [Useful YouTube Videos](notes/videos/youtube-videos.md): video links grouped by topic (roof, insulation, retrofitting, windows)
