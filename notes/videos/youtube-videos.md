@@ -9,7 +9,6 @@ Video links, grouped by the same topics as the notes. A video can appear under m
 ## Insulation
 
 - [PROFFPRATEN: Etterisolering av loft (Lufteprofilsystem)](https://www.youtube.com/watch?v=t-3eURrs-mY), Isola Norge (Norwegian): insulation on the roof.
-
 - [Montering og tetting rundt inntrukket vindu](https://www.youtube.com/watch?v=SusN6L-phzU), Isola Norge (Norwegian): sealing the wind barrier around a window to keep the wall airtight.
 
 ## Retrofitting
