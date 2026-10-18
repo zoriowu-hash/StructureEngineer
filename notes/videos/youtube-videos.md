@@ -19,3 +19,7 @@ Video links, grouped by the same topics as the notes. A video can appear under m
 ## Windows
 
 - [Montering og tetting rundt inntrukket vindu](https://www.youtube.com/watch?v=SusN6L-phzU), Isola Norge (Norwegian): installing and sealing around a recessed window (_inntrukket vindu_, a window set back into the wall).
+
+## Reinforcing Load-Bearing Beams
+
+- [Reinforcing Load Bearing Beam](https://www.youtube.com/watch?v=aBIQz_92WLU), SimonSaysDIY (English): reinforcing a load-bearing beam.
