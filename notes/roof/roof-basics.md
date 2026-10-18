@@ -38,6 +38,7 @@ One possible insulated roof construction, from outside to the heated room:
 | **Himling / skrå himling** — Innvendig takflate / en innvendig takflate som heller. | **Ceiling / sloping ceiling** — The interior overhead surface / one that slopes. | **天花板／斜天花板** — 室内顶部表面／倾斜的室内顶部表面。 |
 | **Halvannenetasjes bolig** — Bolig med en øvre etasje delvis innenfor skråtaket. | **One-and-a-half-storey house** — A house whose upper floor is partly within the roof. | **一层半住宅** — 上层部分空间位于坡屋顶内部的住宅。 |
 | **Taksperre / sperre** — Skrå bjelke som bærer taket i takets fallretning. | **Rafter** — A sloping structural member running down the roof slope. | **椽子／屋顶斜梁** — 顺着屋顶坡度设置的承重构件。 |
+| **Sperretak** — Skråtak der sperrene bærer taket og spenner fra møne til yttervegg, uten takåser imellom. | **Rafter roof** — A pitched roof carried by rafters spanning from the ridge to the exterior walls, without intermediate purlins. | **椽式屋顶／椽架屋顶** — 由椽子从屋脊延伸到外墙直接承重、中间不设檩条的坡屋顶。 |
 | **Takås / ås** — Bjelke langs taket, vanligvis parallelt med mønet. | **Purlin** — A roof-supporting beam generally parallel to the ridge. | **檩条** — 通常与屋脊平行、支撑屋面的梁。 |
 | **Bjelke** — Bærende konstruksjonsdel som overfører last til støttene. | **Beam** — A structural member carrying loads to its supports. | **梁** — 将荷载传递到支撑处的承重构件。 |
 | **Takstol** — Sammensatt rammeverk som bærer taket, ofte med trekanter. | **Roof truss** — A structural framework, often triangulated, supporting the roof. | **屋架** — 由多个构件连接组成、通常包含三角形的屋顶承重框架。 |
