@@ -5,6 +5,7 @@ Video links, grouped by the same topics as the notes. A video can appear under m
 ## Roof
 
 - [PROFFPRATEN: Etterisolering av loft (Lufteprofilsystem)](https://www.youtube.com/watch?v=t-3eURrs-mY), Isola Norge (Norwegian): retrofit insulation of the attic/roof using a ventilation profile system (lufteprofil) to keep the air gap open.
+- [The No. 1 Mistake When Designing Roofs | Warm Vs. Cold Roofs](https://www.youtube.com/watch?v=fJQBJhrlvkM), Christina Ransbury (English): warm roof vs. cold roof, and how climate differences affect roof design.
 
 ## Insulation
 
