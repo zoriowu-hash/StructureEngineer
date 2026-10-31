@@ -12,10 +12,12 @@ Video links, grouped by the same topics as the notes. A video can appear under m
 - [PROFFPRATEN: Etterisolering av loft (Lufteprofilsystem)](https://www.youtube.com/watch?v=t-3eURrs-mY), Isola Norge (Norwegian): insulation on the roof.
 - [Montering og tetting rundt inntrukket vindu](https://www.youtube.com/watch?v=SusN6L-phzU), Isola Norge (Norwegian): sealing the wind barrier around a window to keep the wall airtight.
 - [Montering av vindsperre](https://www.youtube.com/watch?v=gBIjxtiO0ZM), Mataki (Norwegian): installing a wind barrier (vindsperre).
+- [PROFFPRATEN: Kjeller og fukt (med Trond Bøhlerengen fra SINTEF)](https://www.youtube.com/watch?v=TA63vPSUsIU), Isola Norge (Norwegian): insulating basement walls and floors, and why insulation also works as a capillary break.
 
 ## Retrofitting
 
 - [PROFFPRATEN: Etterisolering av loft (Lufteprofilsystem)](https://www.youtube.com/watch?v=t-3eURrs-mY), Isola Norge (Norwegian): retrofit insulation of an attic.
+- [PROFFPRATEN: Kjeller og fukt (med Trond Bøhlerengen fra SINTEF)](https://www.youtube.com/watch?v=TA63vPSUsIU), Isola Norge (Norwegian): retrofit insulation and moisture protection of basements.
 
 ## Windows
 
@@ -24,3 +26,7 @@ Video links, grouped by the same topics as the notes. A video can appear under m
 ## Reinforcing Load-Bearing Beams
 
 - [Reinforcing Load Bearing Beam](https://www.youtube.com/watch?v=aBIQz_92WLU), SimonSaysDIY (English): reinforcing a load-bearing beam.
+
+## Basement
+
+- [PROFFPRATEN: Kjeller og fukt (med Trond Bøhlerengen fra SINTEF)](https://www.youtube.com/watch?v=TA63vPSUsIU), Isola Norge (Norwegian): basement moisture protection and insulation: surface water, drainage, dimpled membranes, floors and wet rooms. Summary: [Basement: Retrofit Insulation and Moisture Protection](../basement/basement-insulation-moisture.md).
